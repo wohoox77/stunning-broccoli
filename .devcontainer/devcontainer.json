@@ -5,7 +5,7 @@
     "customizations": {
      "codespaces": {
       "repositories": {
-        "nic3c-usr/vvv": {
+        "wohoox77/vvv": {
           "permissions": {
               "contents":"read"
           }
